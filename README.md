@@ -1,4 +1,4 @@
-# Robust_Feedback_Control
+# Robust Feedback Control
 This repository contains mini projects created and submitted for the course EEE444 Robust Feedback Control, provided by Bilkent University Electrical & Electronics Engineering Department. 
 
 ## Course Content
